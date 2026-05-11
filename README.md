@@ -13,7 +13,7 @@ Welcome to my personal portfolio! This portfolio showcases my journey, skills, a
 
 This is a simple portfolio website to highlight my skills, projects, and experiences. The main purpose is to provide a central place for potential employers or collaborators to get to know my work and contact me for opportunities.
 
-You can view my live portfolio [here](https://dembashow.works).
+You can view my live portfolio [here](https://dembashow.netlify.app/).
 
 ## Technologies Used
 
